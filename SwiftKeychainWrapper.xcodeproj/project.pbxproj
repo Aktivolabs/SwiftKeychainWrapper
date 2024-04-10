@@ -118,6 +118,14 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
+		8E956B582BC6FA36003C5A26 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				8E956B532BC6F770003C5A26 /* Resources */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
 		961101BB19D2581700E6A6E3 = {
 			isa = PBXGroup;
 			children = (
@@ -143,7 +151,7 @@
 		9694C2B11A66097F005B3030 /* SwiftKeychainWrapper */ = {
 			isa = PBXGroup;
 			children = (
-				8E956B532BC6F770003C5A26 /* Resources */,
+				8E956B582BC6FA36003C5A26 /* Sources */,
 				9694C2B41A66097F005B3030 /* SwiftKeychainWrapper.h */,
 				5E79BF2E246847600035CAC0 /* KeychainWrapperSubscript.swift */,
 				9694C2CC1A660F90005B3030 /* KeychainWrapper.swift */,
