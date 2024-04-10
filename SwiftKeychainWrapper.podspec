@@ -15,5 +15,6 @@ Pod::Spec.new do |s|
   s.source = { :git => 'https://github.com/Aktivolabs/SwiftKeychainWrapper.git', :tag => s.version }
   s.source_files = 'SwiftKeychainWrapper/*.{h,swift}'
   s.resource_bundles = {'SwiftKeychainWrapper' => ['Resources/PrivacyInfo.xcprivacy']}
+  s.source_files = {'SwiftKeychainWrapper' => ['Resources/PrivacyInfo.xcprivacy']}
 
 end
