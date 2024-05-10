@@ -15,8 +15,7 @@
 			<string>NSPrivacyAccessedAPICategoryUserDefaults</string>
 			<key>NSPrivacyAccessedAPITypeReasons</key>
 			<array>
-				<string>CA92.1: Access info from same app, as per documentation</string>
-                <string>1C8F.1</string>
+				<string>1C8F.1</string>
 			</array>
 		</dict>
 	</array>
